@@ -2,7 +2,6 @@
     src:url(Riviera.otf);
     font-family: Riviera;
 }
-
 body{
     color: white;
     background-color: black;
@@ -11,10 +10,6 @@ h1{
     font-family: Riviera;
 }
 p{
-    font-family: 'Share Tech Mono', monospace;
-    font-size: xx-large;
-}
-p2{
-    font-family: "Roboto Mono" , monospace;
+    font-family: 'Share Tech Mono', "Roboto Mono", monospace;
     font-size: xx-large;
 }
