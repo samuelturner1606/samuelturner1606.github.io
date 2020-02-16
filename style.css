@@ -1,15 +1,13 @@
-@font-face {
-    src:url(Riviera.otf);
-    font-family: Riviera;
-}
 body{
     color: white;
     background-color: black;
 }
 h1{
-    font-family: Riviera;
+    font-family: 'Press Start 2P', cursive;
+}
+h2{
+    font-family: "Roboto Mono", monospace;
 }
 p{
-    font-family: 'Share Tech Mono', "Roboto Mono", monospace;
-    font-size: xx-large;
+    font-family: 'Ubuntu Mono', monospace;
 }
