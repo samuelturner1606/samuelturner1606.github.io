@@ -1,13 +1,18 @@
-body{
-    color: white;
-    background-color: black;
+@import url("https://fonts.googleapis.com/css?family=Press+Start+2P|Roboto+Mono|Ubuntu+Mono&display=swap");
+
+body {
+	color: white;
+	background-color: black;
 }
-h1{
-    font-family: 'Press Start 2P', cursive;
+
+h1 {
+	font-family: "Press Start 2P", cursive, monospace;
 }
-h2{
-    font-family: "Roboto Mono", monospace;
+
+h2 {
+	font-family: "Roboto Mono", monospace;
 }
-p{
-    font-family: 'Ubuntu Mono', monospace;
+
+p {
+	font-family: "Ubuntu Mono", monospace;
 }
