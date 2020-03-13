@@ -1,0 +1,16 @@
+// external
+@import url("https://fonts.googleapis.com/css?family=Press+Start+2P|Roboto+Mono|Ubuntu+Mono&display=swap");
+
+// internal
+@import "./variables";
+@import "./h1";
+@import "./h2";
+@import "./h3";
+@import "./p";
+@import "./address";
+@import "./main";
+@import "./a";
+body {
+	color: white;
+	background-color: black;
+}

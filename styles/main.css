@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css?family=Press+Start+2P|Roboto+Mono|Ubuntu+Mono&display=swap");
+h1 {
+  font-family: "Press Start 2P", cursive, monospace;
+  font-size: 50px;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+h3, h2 {
+  font-family: "Roboto Mono", monospace;
+}
+
+p,
+ul {
+  font-family: "Ubuntu Mono", monospace;
+}
+
+address {
+  font-size: 2em;
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 2em 2em 2em;
+      grid-template-columns: 2em 2em 2em;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  text-align: center;
+}
+
+main {
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
+main time {
+  color: grey;
+}
+
+a {
+  color: white;
+  font-family: "Roboto Mono", monospace;
+}
+
+body {
+  color: white;
+  background-color: black;
+}
+/*# sourceMappingURL=main.css.map */
