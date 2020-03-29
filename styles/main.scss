@@ -8,9 +8,14 @@
 @import "./h3";
 @import "./p";
 @import "./address";
-@import "./main";
 @import "./a";
+html,
 body {
+	margin: 0;
+	padding: 0;
 	color: white;
 	background-color: black;
+	time {
+		color: grey;
+	}
 }
