@@ -1,9 +1,3 @@
-# Welcome to My GitHub Pages Site
+# Samuel Turner
 
-This is a simple site created using Markdown.
-
-## Navigation
-- [Replay Chess](ReplayChess.md)
-
-## Contact
-[Send me an email](mailto:your@email.com)
+Welcome to my humble site, I am the developer of the iOS app Replay Chess. If you have any feedback, questions, bug reports or feature request regarding the app please [send me an email](mailto:tablas.ration0e@icloud.com).
